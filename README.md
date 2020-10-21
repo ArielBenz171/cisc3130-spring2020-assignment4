@@ -1,11 +1,15 @@
 # cisc3130-spring2020-assignment4
 [A4] Movie Genres
+
 Learning Objectives
-Continue working with input files
-Storing data as key-value pairs using the HashMap data structure
-Contrast the List and Map Interfaces in Java
+
+Continue working with input files, 
+Storing data as key-value pairs using the HashMap data structure, 
+Contrast the List and Map Interfaces in Java, 
 Reporting with graphics (Java doesn't have great support for charts, feel free to explore other programming language)
+
 Problem Description
+
 There is a business owner who wants to know which movie genres are available out there, in order to know which categories of movies to have at his online storefront. In order to do so he needs to know more about movies produced and has a copy of data from the MovieLens project.
 
 The data comes from MovieLens https://grouplens.org/datasets/movielens/ - any of the data samples would be fine however for the purposes of prototyping it would make the most sense to use the latest dataset (small, 1MB zip file) found at this permalink https://grouplens.org/datasets/movielens/latest/
@@ -25,8 +29,3 @@ This bar chart shown summarizes the values that you can compare against your res
 a3b.png
 
 Try to count how many movies came out for each genre each year. It may be easier to calculate the number of movies that came out each decade.
-
-Extra Credit: Data Visualization (1% of final grade)
-This task can be completed with a plotting library. Java few avenues for exploration. You may find more open source resources in other programming languages such as JavaScript or Python.
-
-Visualize the information about movies (or one of the previous assignments if you wish). Your task is to come up with a data question that can be answered through visual representation, then figure out how to create that. Include both in your assignment submission. Please make a note your submission and with your repository on where to find the visualization. Charts made through a WYSIWYG interface such as Tableau will not count towards the extra credit.
